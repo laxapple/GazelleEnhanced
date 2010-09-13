@@ -8,7 +8,27 @@ This project is obviously based on Gazelle, the complete Torrent site management
 
 Full project URL is here: http://what.cd/gazelle/
 
+What is included in this package
+--------------------------------
+
+In this package you will find all the core requirements for a stable Gazelle installation:
+
+1) Gazelle source files
+	a) Sample Config.php file that is proven stable.
+2) Sphinx full text SQL search engine
+	a) Sample Sphinx.conf that is proven stable
+	b) All binaries and installation files
+3) XBTT tracker engine
+
+Coming Soon
+-----------
+
+1) Sample database to populate your new site with data during testing.
+2) AJAX-ified user interface
+3) Multiple new stylesheets
+
+And a few more things in the works. Please email Pierce@RefreshedWeb.com if you have any suggestions or feature requests.
 
 Fun, exciting things ahead. Stay tuned. 
 
--bigrocka1
+-Pierce (bigrocka1)

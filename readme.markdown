@@ -24,7 +24,9 @@ Coming Soon
 -----------
 
 1) Sample database to populate your new site with data during testing.
+
 2) AJAX-ified user interface
+
 3) Multiple new stylesheets
 
 And a few more things in the works. Please email Pierce@RefreshedWeb.com if you have any suggestions or feature requests.

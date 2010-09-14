@@ -1,0 +1,33 @@
+-------------------      Gazelle Enhanced     -----------------------
+
+Copyright 2010, Pierce Moore
+
+Gazelle Enhanced is a user-contributed, open source derivative of the
+popular torrent tracker framework Gazelle.
+
+This project is released under the GNU GPL license, and is open-source.
+All that I ask is that you attribute any work you derive from this
+project back to me, or to Gazelle developers. Thanks!
+
+Author: Pierce
+Email: Pierce@RefreshedWeb.com
+Git URL: http://github.com/piercemoore/GazelleEnhanced
+Project URL: http://gazelle.refreshedweb.com
+License: GNU GPL
+
+Original Gazelle documents, files, and copyrights are copyright What.cd
+and Gazelle developers. We are not mutually affiliated. This is solely
+a derivative project based on their hard work.
+
+Gazelle Enhanced is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Gazelle Enhanced is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.

@@ -24,7 +24,7 @@ print_r($get); // Comment this line if un-commenting the lines below to avoid co
 //Un-comment the following lines to get the system started!
 /*
 
-	if(!$pop->saveUserList()) {
+	if(!$pop->saveUserList($get)) {
 		log('Error: Unable to save user list.');
 	} else {
 		log('Success: User list successfully saved.');

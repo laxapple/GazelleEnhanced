@@ -20,14 +20,25 @@ In this package you will find all the core requirements for a stable Gazelle ins
 	b) All binaries and installation files
 3) XBTT tracker engine
 
+In the Works as we speak
+------------------------
+
+1) Sample database to populate your new site with data during testing.
+	a) Users  <- Population Script Complete
+	b) Forums
+	c) Torrents
+	d) Requests
+	e) Invites
+	f) Wiki
+
+b) An API used to perform basic CRUD operations and fetching information.
+
 Coming Soon
 -----------
 
-1) Sample database to populate your new site with data during testing.
+1) AJAX-ified user interface
 
-2) AJAX-ified user interface
-
-3) Multiple new stylesheets
+2) Multiple new stylesheets
 
 And a few more things in the works. Please email Pierce@RefreshedWeb.com if you have any suggestions or feature requests.
 

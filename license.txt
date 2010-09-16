@@ -7,7 +7,7 @@ This project is a direct derivative of Gazelle (copyright What.cd, Inc.), and
 all non-Gazelle source code is copyright Pierce Moore 2010.
 
 Author: What.cd, Inc.
-Sub-Author: Pierce Moore
+Sub-Author: Pierce Moore, Refreshed Web Design
 Email: Pierce@RefreshedWeb.com
 Git URL: http://github.com/piercemoore/GazelleEnhanced
 Project URL: http://gazelle.refreshedweb.com

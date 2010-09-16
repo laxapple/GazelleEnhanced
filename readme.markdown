@@ -1,11 +1,12 @@
 #Gazelle Enhanced
 ###A project specifically designed to improve upon the existing codebase of Gazelle, and enhance the user experience for its users.
-***
-##IMPORTANT NOTE
-###Please do not download packages that are not specifically listed as major or minor version numbers! If a release is stable, it will have a unique version tag (v1.0.1, etc.). If it is not version tagged, it is *not* stable!
-***
+
 ####This project is obviously based on Gazelle, the complete Torrent site management solution built and maintained by the Dev team of What.cd.
 ####Full project URL is here: http://what.cd/gazelle/
+
+##IMPORTANT NOTE
+###Please do not download packages that are not specifically listed as major or minor version numbers! If a release is stable, it will have a unique version tag (v1.0.1, etc.). If it is not version tagged, it is *not* stable!
+
 
 What is included in this package
 --------------------------------
